@@ -1,0 +1,4 @@
+screenrc
+========
+
+GNU screen config
